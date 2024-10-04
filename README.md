@@ -1,5 +1,9 @@
 # DevOps-Project-MultiTier-Bank-Application-with-OpenLDAP-Authentication-Aws
 
+Architechure diagram for the project is as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/10a53ec8-bc83-4b32-a1f5-c532ae96531b)
+
 For configuration of Open LDAP followed the steps as mentioned in the screenshot attahed below.
 
 ![image](https://github.com/user-attachments/assets/a3044284-f208-4b77-b223-3f308f65c54e)
