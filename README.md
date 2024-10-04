@@ -110,3 +110,26 @@ Finally you can access the Bank Application as shown in the screenshot attached 
 
 ![image](https://github.com/user-attachments/assets/6f60654c-a8ed-4cbd-b39e-8c5d204ee9e2)
 ![image](https://github.com/user-attachments/assets/aa403769-4387-4edc-aaa1-ea8f7572092e)
+
+
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:-  https://github.com/kamalmohan217/Bank-App.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-  https://github.com/Goldencat98/Bank-App.git
