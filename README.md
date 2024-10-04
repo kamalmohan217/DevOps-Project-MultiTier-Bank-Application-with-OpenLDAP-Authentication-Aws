@@ -97,4 +97,16 @@ The two Jenkins Job has been as shown in the screenshot attached below.
 After running the Jenkins Job screenshot of SonarQube, Nexus and ArgoCD is as shown in the screenshot attached below.
 
 ![image](https://github.com/user-attachments/assets/a6d2e627-8f9f-4543-b215-4e85ec412990)
+![image](https://github.com/user-attachments/assets/03d5b504-86b5-45a2-a0cb-def154a475ea)
 ![image](https://github.com/user-attachments/assets/f929d291-1105-4f3e-bc4b-620d447ff32c)
+![image](https://github.com/user-attachments/assets/00dd0995-4296-4f38-8d1d-ede6ecea63fd)
+![image](https://github.com/user-attachments/assets/724b74d0-1499-4821-98f4-3fd89e4ff719)
+
+Entry in Route53 is as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/f9f74515-14af-44bf-9e06-6926c9865461)
+
+Finally you can access the Bank Application as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/6f60654c-a8ed-4cbd-b39e-8c5d204ee9e2)
+![image](https://github.com/user-attachments/assets/aa403769-4387-4edc-aaa1-ea8f7572092e)
